@@ -8,7 +8,7 @@ tags: Apple, car
 excerpt_separator: <!--more-->
 ---
 
-It's a good these "experts" don't work for Apple. That car is hideous.
+It's a good thing these "experts" don't work for Apple. That car is hideous.
 
 Link: [http://www.motortrend.com/news/apple-car-exclusive/](http://www.motortrend.com/news/apple-car-exclusive/)
 <!--more-->
