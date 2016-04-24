@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Addison's Blog
+title: WebbDev
 email: comments@addisonwebb.com
 description: > # this means to ignore newlines until "baseurl:"
   Hello, my name is Addison Webb. I am a iOS developer at Ramsey Solutions making
