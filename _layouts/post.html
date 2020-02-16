@@ -5,7 +5,7 @@ layout: default
 <div class="container">
 	<div class="post-detail">
 		<h1 class="post-title">{{ page.title }}</h1>
-		<h5><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • {{ page.author }} {% endif %}</h5>
+		<h5 class="post-title"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • {{ page.author }} {% endif %}</h5>
 	  <div class="markdown-body">
 	    {{ content }}
 	  </div>

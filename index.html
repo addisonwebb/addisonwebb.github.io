@@ -8,8 +8,8 @@ layout: default
   {% for post in site.posts %}
   	<div class="post">
 	  	<div class="post-metadata">
-		  	<h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-		  	<h5>{{ post.date | date: "%b %-d, %Y" }}</h5>
+		  	<h1><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
+		  	<h4>{{ post.date | date: "%b %-d, %Y" }}</h4>
 	  	</div>
 	  	
 
